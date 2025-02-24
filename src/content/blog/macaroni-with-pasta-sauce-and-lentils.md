@@ -7,7 +7,7 @@ tags:
 description: Quick and easily scalable since everything is premeasured by cans and jars.
 author: Derrick Shaw
 ---
-Ingredients
+**Ingredients**
 
 * 2 lbs macaroni
 * 2 32oz cans of Hunts pasta sauce
@@ -16,6 +16,8 @@ Ingredients
 * 1-2 bell peppers, chopped
 * salt and pepper to taste
 * oil
+
+**Directions**
 
 1. Start boiling salted water in a large pot
 2. saute onion and bell pepper in oil over medium heat, stir occasionally
