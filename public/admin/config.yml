@@ -13,7 +13,7 @@ collections:
     fields: # Fields for each document, usually in frontmatter
       # - { label: "Layout", name: "layout", widget: "hidden", default: "blog" }
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "Slug", name: "slug", widget: "string", required: false }
+      # - { label: "Slug", name: "slug", widget: "string", required: true }
       - { label: "Publish Date", name: "pubDatetime", widget: "datetime" }
       - {
           label: "Featured",
