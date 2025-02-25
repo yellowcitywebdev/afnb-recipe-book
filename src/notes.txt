@@ -1,0 +1,2 @@
+figure out how tags work
+fix routes for recipes instead of posts

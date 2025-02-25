@@ -4,18 +4,20 @@ pubDatetime: 2025-02-24T16:37:00.000Z
 featured: true
 tags:
   - pasta
+  - lentils
 description: Quick and easily scalable since everything is premeasured by cans and jars.
 author: Derrick Shaw
 ---
+
 **Ingredients**
 
-* 2 lbs macaroni
-* 2 32oz cans of Hunts pasta sauce
-* 2 15 oz cans of lentils
-* 1-2 onions, chopped
-* 1-2 bell peppers, chopped
-* salt and pepper to taste
-* oil
+- 2 lbs macaroni
+- 2 32oz cans of Hunts pasta sauce
+- 2 15 oz cans of lentils
+- 1-2 onions, chopped
+- 1-2 bell peppers, chopped
+- salt and pepper to taste
+- oil
 
 **Directions**
 
