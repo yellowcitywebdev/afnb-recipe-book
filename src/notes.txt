@@ -1,4 +1,3 @@
 
-fix routes for recipes instead of posts
 add favicon
 add twitter card image

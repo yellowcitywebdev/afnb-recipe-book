@@ -6,7 +6,7 @@ export const SITE: Site = {
   profile: "https://android-hell.netlify.app/",
   desc: "A collection of recipes for Amarillo Food Not Bombs.",
   title: "Amarillo Food Not Bombs",
-  ogImage: "astropaper-og.jpg",
+  ogImage: "fnb-og.png",
   lightAndDarkMode: true,
   postPerIndex: 4,
   postPerPage: 6,
