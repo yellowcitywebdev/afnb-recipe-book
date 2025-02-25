@@ -1,12 +1,12 @@
 import type { Site, SocialObjects } from "./types";
 
 export const SITE: Site = {
-  website: "https://afnb-recipe-repo.com/", // replace this with your deployed domain
+  website: "https://afnb-recipe-book.netlify.app/", // replace this with your deployed domain
   author: "Derrick Shaw",
   profile: "https://android-hell.netlify.app/",
   desc: "A collection of recipes for Amarillo Food Not Bombs.",
   title: "Amarillo Food Not Bombs",
-  ogImage: "astropaper-og.jpg",
+  ogImage: "fnb-og.jpg",
   lightAndDarkMode: true,
   postPerIndex: 4,
   postPerPage: 6,
