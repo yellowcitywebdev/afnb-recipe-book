@@ -1,5 +1,5 @@
 ---
-title: Easy Spanish CNT-FAI'd Rice
+title: Easy CNT-FAI'ed Rice
 pubDatetime: 2025-02-24T21:43:00.000Z
 featured: true
 tags:

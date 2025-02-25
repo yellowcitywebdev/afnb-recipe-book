@@ -5,12 +5,12 @@
 @layer base {
   :root,
   html[data-theme="light"] {
-    --color-fill: 251, 254, 251;
-    --color-text-base: 40, 39, 40;
-    --color-accent: 220, 38, 38; /* Red (#DC2626 - Tailwind's 'red-600') */
-    --color-card: 230, 230, 230;
-    --color-card-muted: 205, 205, 205;
-    --color-border: 220, 38, 38; /* Red (#DC2626 - Tailwind's 'red-600') */
+    --color-fill: 251, 254, 251; /* #FBFEFB */
+    --color-text-base: 40, 39, 40; /* #282728 */
+    --color-accent: 186, 82, 159; /* #ba529f */
+    --color-card: 230, 230, 230; /* #E6E6E6 */
+    --color-card-muted: 205, 205, 205; /* #CDCDCD */
+    --color-border: 56, 179, 74; /* #38B34A */ /* 244, 119, 32 #f47720 */
   }
   html[data-theme="dark"] {
     --color-fill: 0, 0, 0;
