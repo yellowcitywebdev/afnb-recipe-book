@@ -27,7 +27,7 @@ collections:
           name: "tags",
           widget: "list",
           required: false,
-          default: ["others"],
+          default: ["other"],
         }
       - { label: "Description", name: "description", widget: "text" }
       - { label: "Author", name: "author", widget: "string" }
