@@ -1,5 +1,5 @@
 ---
-title: Easy Spanish Fried Rice
+title: Easy Spanish CNT-FAI'd Rice
 pubDatetime: 2025-02-24T21:43:00.000Z
 featured: true
 tags:
@@ -8,12 +8,13 @@ tags:
 description: Quick and easy fried rice dish for a side.
 author: Nathan King
 ---
+
 ## Ingredients:
 
-* 2 lbs  long-grain rice
-* 2 boxes of vegetable broth
-* 1 (16 oz) can chunky picante salsa
-* 4-6 tbsp vegetable oil
+- 2 lbs  long-grain rice
+- 2 boxes of vegetable broth
+- 1 (16 oz) can chunky picante salsa
+- 4-6 tbsp vegetable oil
 
 ## Instructions:
 
