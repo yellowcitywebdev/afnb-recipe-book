@@ -1,2 +1,4 @@
-figure out how tags work
+
 fix routes for recipes instead of posts
+add favicon
+add twitter card image
