@@ -7,18 +7,22 @@
   html[data-theme="light"] {
     --color-fill: 251, 254, 251; /* #FBFEFB */
     --color-text-base: 40, 39, 40; /* #282728 */
-    --color-accent: 186, 82, 159; /* #ba529f */
+    --color-accent: 56, 179, 74; /* #38B34A */
     --color-card: 230, 230, 230; /* #E6E6E6 */
     --color-card-muted: 205, 205, 205; /* #CDCDCD */
-    --color-border: 56, 179, 74; /* #38B34A */ /* 244, 119, 32 #f47720 */
+    --color-border: 244, 119, 32; /* #f47720 */
+    --color-text-link: 244, 119, 32; /* #f47720 */
+    --color-text-heading: 186, 82, 159; /* #ba529f */
   }
   html[data-theme="dark"] {
     --color-fill: 0, 0, 0;
     --color-text-base: 234, 237, 243;
-    --color-accent: 220, 38, 38; /* Red (#DC2626 - Tailwind's 'red-600') */
+    --color-accent: 220, 38, 38; /* #DC2626 */
     --color-card: 52, 63, 96;
-    --color-card-muted: 138, 51, 2; /* Dark Reddish Orange */
-    --color-border: 220, 38, 38; /* Red (#DC2626 - Tailwind's 'red-600') */
+    --color-card-muted: 138, 51, 2;
+    --color-border: 220, 38, 38; /* #DC2626  */
+    --color-text-link: 220, 38, 38; /* #DC2626  */
+    --color-text-heading: 251, 254, 251; /* #FBFEFB */
   }
   #sun-svg,
   html[data-theme="dark"] #moon-svg {

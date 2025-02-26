@@ -24,6 +24,8 @@ module.exports = {
           base: withOpacity("--color-text-base"),
           accent: withOpacity("--color-accent"),
           inverted: withOpacity("--color-fill"),
+          link: withOpacity("--color-text-link"),
+          heading: withOpacity("--color-text-heading")
         },
       },
       backgroundColor: {
