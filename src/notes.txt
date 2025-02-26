@@ -1,1 +1,0 @@
-add fnb colors to light theme

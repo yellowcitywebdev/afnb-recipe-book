@@ -34,6 +34,8 @@ collections:
           name: "description",
           widget: "text",
           required: false,
+          pattern:
+            ["^.{0,200}$", "Description must be at most 200 characters!"],
         }
       - { label: "Author", name: "author", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
