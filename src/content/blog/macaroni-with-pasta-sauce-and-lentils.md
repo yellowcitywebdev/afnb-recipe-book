@@ -5,7 +5,7 @@ featured: true
 tags:
   - pasta
   - lentils
-description: Quick and easily scalable since everything is premeasured by cans and jars.
+description: ""
 author: Derrick Shaw
 ---
 
