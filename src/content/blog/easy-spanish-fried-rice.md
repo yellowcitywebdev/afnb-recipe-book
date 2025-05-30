@@ -7,7 +7,7 @@ tags:
   - side
   - carb
 description: Quick and easy fried rice dish for a side.
-author: Nathan King
+author: Gnat
 ---
 
 ## Ingredients:
