@@ -6,7 +6,7 @@ tags:
   - pasta
   - lentils
 description: ""
-author: Derrick Shaw
+author: roux
 ---
 
 **Ingredients**
